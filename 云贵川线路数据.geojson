@@ -787,6 +787,46 @@
         "type": "LineString",
         "coordinates": [
           [
+            101.755912,
+            25.1671
+          ],
+          [
+            102.05524,
+            25.191593
+          ]
+        ]
+      },
+      "properties": {
+        "start_id": "418",
+        "end_id": "419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            102.05524,
+            25.191593
+          ],
+          [
+            102.720333,
+            25.018769
+          ]
+        ]
+      },
+      "properties": {
+        "start_id": "419",
+        "end_id": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             104.070836,
             30.6997
           ],
